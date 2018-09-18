@@ -15,11 +15,11 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: 18011572963/18011572963.github.io
-github_url: https://github.com/18011572963
-cnblog_url: http://www.cnblogs.com/18011572963
-url: https://18011572963.github.io
-enforce_ssl: 18011572963.com
+repository: treeke/treeke.github.io
+github_url: https://github.com/treeke
+cnblog_url: http://www.cnblogs.com/treeke
+url: https://treeke.github.io
+enforce_ssl: treeke.com
 
 ## Gem
 plugins:
